@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "lib": ["ES2015"],
+    "allowJs": true,
+    "outDir": "lib",
+    "declaration": true,
+    "declarationDir": "./types",
+    "experimentalDecorators": true
+  }
+}

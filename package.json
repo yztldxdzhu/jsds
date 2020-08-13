@@ -1,0 +1,14 @@
+{
+  "name": "jsds",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "files": ["/lib"],
+  "scripts": {
+    "dev": "tsc -w"
+  },
+  "devDependencies": {
+    "typescript": "^3.9.7"
+  }
+}
